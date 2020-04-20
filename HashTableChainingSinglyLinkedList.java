@@ -135,9 +135,7 @@
                 }
             }
 
-                
             return true;
-
         }
 
         public void printHashTable () {
